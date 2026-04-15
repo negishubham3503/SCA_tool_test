@@ -20,6 +20,6 @@
   "homepage": "https://github.com/negishubham3503/SCA_tool_test#readme",
   "dependencies": {
     "colors": "1.1.0",
-    "cowsay": "1.1.0"
+    "cowsay": "1.2.0"
   }
 }
